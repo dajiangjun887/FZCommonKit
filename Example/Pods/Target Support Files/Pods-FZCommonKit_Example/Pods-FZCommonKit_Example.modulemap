@@ -1,0 +1,6 @@
+framework module Pods_FZCommonKit_Example {
+  umbrella header "Pods-FZCommonKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

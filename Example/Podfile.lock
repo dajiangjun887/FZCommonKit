@@ -1,0 +1,16 @@
+PODS:
+  - FZCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - FZCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  FZCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FZCommonKit: d5c81cc712c5ac15289bf36c02e2f7e1aa2e5795
+
+PODFILE CHECKSUM: 4ab6f4c522efb5990c8141fa7a5b29757abb1876
+
+COCOAPODS: 1.11.3
