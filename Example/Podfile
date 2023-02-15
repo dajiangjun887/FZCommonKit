@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FZCommonKit_Example' do
+  pod 'FZCommonKit', :path => '../'
+
+  target 'FZCommonKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
