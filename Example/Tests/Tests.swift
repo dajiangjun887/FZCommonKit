@@ -1,5 +1,4 @@
 import XCTest
-import FZCommonKit
 
 class Tests: XCTestCase {
     

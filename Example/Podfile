@@ -7,7 +7,8 @@ target 'FZCommonKit_Example' do
 
   target 'FZCommonKit_Tests' do
     inherit! :search_paths
-
+    
+#    pod 'SwifterSwift'
     
   end
 end

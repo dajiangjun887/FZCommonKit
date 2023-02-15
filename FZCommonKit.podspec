@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FZCommonKit'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '工具.'
   s.swift_version    = ['4.0', '4.2', '5.0']
 
@@ -39,5 +39,5 @@ TODO: 基础库.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'SwifterSwift', '~> 3.2.0'
 end
